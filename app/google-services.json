@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503152140310",
+    "project_id": "universidadean-b2184",
+    "storage_bucket": "universidadean-b2184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503152140310:android:b56ea045c5f66c36bfd537",
+        "android_client_info": {
+          "package_name": "com.ean.universidadean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503152140310-p7uftlh37fsrbgre99s7k3qcar1ogul6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHjrRXDlT7AwiHvYI2SreqnfGoK9PXFbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503152140310-p7uftlh37fsrbgre99s7k3qcar1ogul6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
